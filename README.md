@@ -6,17 +6,29 @@ Welcome to our Sudden-Cardiac-Death prediction project.
 2.) The data set consists of the following 13 classes
 
 1 Normal 245
+
 2 Ischemic changes (Coronary Artery) 44
+
 3 Old Anterior Myocardial Infarction 15
+
 4 Old Inferior Myocardial Infarction 15
+
 5 Sinus tachycardia 13
+
 6 Sinus bradycardia 25
+
 7 Ventricular Premature Contraction (PVC) 3
+
 8 Supraventricular Premature Contraction 2
+
 9 Left bundle branch block 9
+
 10 Right bundle branch block 50
+
 11 Left ventricle hypertrophy 4
+
 12 Atrial Fibrillation or Flutter 5
+
 13 Others 22
 
 About Our Project:
